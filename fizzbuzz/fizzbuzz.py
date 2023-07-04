@@ -18,5 +18,5 @@ class Solution:
 				sequence += str(i) + ","
 		return sequence[:len(sequence)-1]
 
-test_run = Solution()
-print(test_run.run(1, 15))
+# test_run = Solution()
+# print(test_run.run(1, 15))
